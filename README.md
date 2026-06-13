@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Akksai%20Prathaan%20M&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=AI%20%26%20Data%20Science%20Fresher%20%7C%20Cybersecurity%20%7C%20AI%2FML%20%7C%20Generative%20AI&amp;descAlignY=62&amp;descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Akksai%20Prathaan%20M&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=AI%20and%20Data%20Science%20Fresher%20%7C%20Cybersecurity%20%7C%20AI%2FML%20%7C%20Generative%20AI&amp;descAlignY=62&amp;descSize=16" width="100%"/>
 
 <div align="center">
 
